@@ -6,4 +6,3 @@
 ![](https://github.com/JinneePro/AP/blob/master/1.%E5%9B%BE%E5%BD%A2%E8%AF%86%E5%88%AB.png?raw=true)  
 ![](https://github.com/JinneePro/AP/blob/master/%E5%B7%A5%E5%86%B5%E7%B1%BB%E5%9E%8B.png?raw=true)  
 ### 2. 产量计算
-![](https://github.com/JinneePro/AP/blob/master/3.%E4%BA%A7%E9%87%8F%E8%AE%A1%E7%AE%97.png?raw=true)  
