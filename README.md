@@ -5,4 +5,5 @@
 ### 1. 功图诊断
 ![](https://github.com/JinneePro/AP/blob/master/1.%E5%9B%BE%E5%BD%A2%E8%AF%86%E5%88%AB.png?raw=true)  
 ![](https://github.com/JinneePro/AP/blob/master/%E5%B7%A5%E5%86%B5%E7%B1%BB%E5%9E%8B.png?raw=true)  
+![](https://github.com/JinneePro/AP/blob/master/123.png?raw=true)
 ### 2. 产量计算
