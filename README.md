@@ -23,4 +23,31 @@
 ### 9.能耗分析
 ![](https://github.com/JinneePro/AP/blob/master/image/11.png?raw=true)
 ### 10.平衡计算
-![](https://github.com/JinneePro/AP/blob/master/image/12.png?raw=true)
+![](https://github.com/JinneePro/AP/blob/master/image/12.png?raw=true)  
+## 三、操作说明
+### 1.初始化
+![](https://github.com/JinneePro/AP/blob/master/image/13.png?raw=true)
+![](https://github.com/JinneePro/AP/blob/master/image/14.png?raw=true) 
+![](https://github.com/JinneePro/AP/blob/master/image/15.png?raw=true) 
+![](https://github.com/JinneePro/AP/blob/master/image/16.png?raw=true) 
+![](https://github.com/JinneePro/AP/blob/master/image/17.png?raw=true) 
+![](https://github.com/JinneePro/AP/blob/master/image/18.png?raw=true)
+### 2.采集类型
+![](https://github.com/JinneePro/AP/blob/master/image/19.png?raw=true)
+### 3.驱动配置
+![](https://github.com/JinneePro/AP/blob/master/image/20.png?raw=true) 
+### 4.电子表格
+![](https://github.com/JinneePro/AP/blob/master/image/21.png?raw=true) 
+### 5.统计分析
+![](https://github.com/JinneePro/AP/blob/master/image/22.png?raw=true) 
+### 6.历史查询
+![](https://github.com/JinneePro/AP/blob/master/image/23.png?raw=true) 
+### 7.界面布局
+![](https://github.com/JinneePro/AP/blob/master/image/24.png?raw=true) 
+![](https://github.com/JinneePro/AP/blob/master/image/25.png?raw=true)
+### 8.智能标签
+![](https://github.com/JinneePro/AP/blob/master/image/26.png?raw=true) 
+### 9.曲线分析
+![](https://github.com/JinneePro/AP/blob/master/image/27.png?raw=true)
+### 10.数据刷新
+![](https://github.com/JinneePro/AP/blob/master/image/28.png?raw=true) 
