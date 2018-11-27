@@ -3,7 +3,24 @@
 &emsp;&emsp;本系统主要在采集、控制的基础上，侧重油井全井的智能分析。系统应用大数据分析方法，对工况、产量、时率、平衡、能耗等生产关键指标进行统计分析，及时发现生产不正常井，挖掘生产潜力井，提升对目标区块和单井的管控能力。模块主要包括实时评价、全天评价、生产报表、图形查询。
 ## 二、 计算原理
 ### 1. 功图诊断
-![](https://github.com/JinneePro/AP/blob/master/1.%E5%9B%BE%E5%BD%A2%E8%AF%86%E5%88%AB.png?raw=true)  
-![](https://github.com/JinneePro/AP/blob/master/%E5%B7%A5%E5%86%B5%E7%B1%BB%E5%9E%8B.png?raw=true)  
-![](https://github.com/JinneePro/AP/blob/master/123.png?raw=true)
+![](https://github.com/JinneePro/AP/blob/master/image/01.png?raw=true)  
+![](https://github.com/JinneePro/AP/blob/master/image/02.png?raw=true)  
 ### 2. 产量计算
+![](https://github.com/JinneePro/AP/blob/master/image/03.png?raw=true)  
+### 3. 泵效组成  
+![](https://github.com/JinneePro/AP/blob/master/image/04.png?raw=true)  
+### 4.杆柱应力
+![](https://github.com/JinneePro/AP/blob/master/image/05.png?raw=true)
+### 5.系统效率  
+![](https://github.com/JinneePro/AP/blob/master/image/06.png?raw=true)
+### 6.泵功图
+![](https://github.com/JinneePro/AP/blob/master/image/07.png?raw=true)
+### 7.电参诊断
+![](https://github.com/JinneePro/AP/blob/master/image/08.png?raw=true)
+![](https://github.com/JinneePro/AP/blob/master/image/09.png?raw=true)
+### 8.电参时率
+![](https://github.com/JinneePro/AP/blob/master/image/10.png?raw=true)
+### 9.能耗分析
+![](https://github.com/JinneePro/AP/blob/master/image/11.png?raw=true)
+### 10.平衡计算
+![](https://github.com/JinneePro/AP/blob/master/image/12.png?raw=true)
