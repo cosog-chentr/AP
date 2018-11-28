@@ -26,6 +26,7 @@
 ![](https://github.com/JinneePro/AP/blob/master/image/12.png?raw=true)  
 ## 三、操作说明
 ### 1.初始化
+&emsp;&emsp;系统部署完成后，需要对单位组织、用户、角色等信息进行配置。
 ![](https://github.com/JinneePro/AP/blob/master/image/13.png?raw=true)
 ![](https://github.com/JinneePro/AP/blob/master/image/14.png?raw=true) 
 ![](https://github.com/JinneePro/AP/blob/master/image/15.png?raw=true) 
