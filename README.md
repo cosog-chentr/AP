@@ -30,7 +30,7 @@
 ### 1.功图诊断
 ![](https://github.com/JinneePro/AP/blob/master/image/01.png?raw=true)  
 ![](https://github.com/JinneePro/AP/blob/master/image/02.png?raw=true)  
-### 2.产量计算
+### 2.功图计产
 ![](https://github.com/JinneePro/AP/blob/master/image/03.png?raw=true)  
 ### 3.泵效组成  
 ![](https://github.com/JinneePro/AP/blob/master/image/04.png?raw=true)  
