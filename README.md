@@ -24,11 +24,11 @@
 ![](https://github.com/JinneePro/AP/blob/master/image/06.png?raw=true)
 ### 9.井筒分析
 ![](https://github.com/JinneePro/AP/blob/master/image/32.png?raw=true)
-#### 泵效组成
+- #### 泵效组成
 ![](https://github.com/JinneePro/AP/blob/master/image/04.png?raw=true)
-#### 杆柱应力
+- #### 杆柱应力
 ![](https://github.com/JinneePro/AP/blob/master/image/05.png?raw=true)
-#### 泵功图
+- #### 泵功图
 ![](https://github.com/JinneePro/AP/blob/master/image/07.png?raw=true)
 ### 10.运动分析
 ![](https://github.com/JinneePro/AP/blob/master/image/33.png?raw=true)
