@@ -2,15 +2,15 @@
 * [一、产品简介](#一产品简介)
 * [二、功能介绍](#二功能介绍)
   * [1.功图诊断](#1功图诊断)
-  * [2.产量计算](#2产量计算)
-  * [3.泵效组成](#3泵效组成)
-  * [4.杆柱应力](#4杆柱应力)
-  * [5.系统效率](#5系统效率)
-  * [6.泵功图](#6泵功图)
-  * [7.电参诊断](#7电参诊断)
-  * [8.电参时率](#8电参时率)
-  * [9.能耗分析](#9能耗分析)
-  * [10.平衡计算](#10平衡计算)
+  * [2.功图计产](#2功图计产)
+  * [3.转速计产](#3转速计产)
+  * [4.功图平衡](#4功图平衡)
+  * [5.电参诊断](#5电参诊断)
+  * [6.电参平衡](#6电参平衡)
+  * [7.时率计算](#7时率计算)
+  * [8.能耗分析](#8能耗分析)
+  * [9.井筒分析](#9井筒分析)
+  * [10.运动分析](#10运动分析)
 * [三、操作说明](#三操作说明)
   * [1.初始化](#1初始化)
   * [2.采集类型](#2采集类型)
@@ -31,24 +31,31 @@
 ![](https://github.com/JinneePro/AP/blob/master/image/01.png?raw=true)  
 ![](https://github.com/JinneePro/AP/blob/master/image/02.png?raw=true)  
 ### 2.功图计产
-![](https://github.com/JinneePro/AP/blob/master/image/03.png?raw=true)  
-### 3.泵效组成  
-![](https://github.com/JinneePro/AP/blob/master/image/04.png?raw=true)  
-### 4.杆柱应力
-![](https://github.com/JinneePro/AP/blob/master/image/05.png?raw=true)
-### 5.系统效率  
-![](https://github.com/JinneePro/AP/blob/master/image/06.png?raw=true)
-### 6.泵功图
-![](https://github.com/JinneePro/AP/blob/master/image/07.png?raw=true)
-### 7.电参诊断
+![](https://github.com/JinneePro/AP/blob/master/image/03.png?raw=true)
+### 3.转速计产
+![](https://github.com/JinneePro/AP/blob/master/image/29.png?raw=true)
+### 4.功图平衡
+![](https://github.com/JinneePro/AP/blob/master/image/30.png?raw=true)
+### 5.电参诊断
 ![](https://github.com/JinneePro/AP/blob/master/image/08.png?raw=true)
 ![](https://github.com/JinneePro/AP/blob/master/image/09.png?raw=true)
-### 8.电参时率
-![](https://github.com/JinneePro/AP/blob/master/image/10.png?raw=true)
-### 9.能耗分析
+### 6.电参平衡
+![](https://github.com/JinneePro/AP/blob/master/image/12.png?raw=true)
+### 7.时率计算
+![](https://github.com/JinneePro/AP/blob/master/image/31.png?raw=true)
+### 8.能耗分析
 ![](https://github.com/JinneePro/AP/blob/master/image/11.png?raw=true)
-### 10.平衡计算
-![](https://github.com/JinneePro/AP/blob/master/image/12.png?raw=true)  
+![](https://github.com/JinneePro/AP/blob/master/image/06.png?raw=true)
+### 9.井筒分析
+![](https://github.com/JinneePro/AP/blob/master/image/32.png?raw=true)
+#### 泵效组成
+![](https://github.com/JinneePro/AP/blob/master/image/04.png?raw=true)
+#### 杆柱应力
+![](https://github.com/JinneePro/AP/blob/master/image/05.png?raw=true)
+#### 泵功图
+![](https://github.com/JinneePro/AP/blob/master/image/07.png?raw=true)
+### 10.运动分析
+![](https://github.com/JinneePro/AP/blob/master/image/33.png?raw=true)
 ## 三、操作说明
 ### 1.初始化
 &emsp;&emsp;系统部署完成后，需要对单位组织、用户、角色等信息进行配置。
