@@ -3,7 +3,6 @@
 &emsp;&emsp;本系统主要在采集、控制的基础上，侧重油井全井的智能分析。系统应用大数据分析方法，对工况、产量、时率、平衡、能耗等生产关键指标进行统计分析，及时发现生产不正常井，挖掘生产潜力井，提升对目标区块和单井的管控能力。模块主要包括实时评价、全天评价、生产报表、图形查询等。  
 ![油气生产敏捷计算分析系统](https://github.com/JinneePro/AP/blob/master/01.%E7%94%A8%E6%88%B7%E7%99%BB%E5%BD%95.png?raw=true)
 ## 二、功能介绍
-<
 ### 1.功图诊断
 ![](https://github.com/JinneePro/AP/blob/master/image/01.png?raw=true)  
 ![](https://github.com/JinneePro/AP/blob/master/image/02.png?raw=true)  
