@@ -48,6 +48,8 @@
 ![](https://github.com/JinneePro/AP/blob/master/image/06.png?raw=true)
 ### 2.9 井筒分析
 ![](https://github.com/JinneePro/AP/blob/master/image/32.png?raw=true)
+- #### 剖面计算
+![](https://github.com/JinneePro/AP/blob/master/image/34.png?raw=true)
 - #### 泵效组成
 ![](https://github.com/JinneePro/AP/blob/master/image/04.png?raw=true)
 - #### 杆柱应力
